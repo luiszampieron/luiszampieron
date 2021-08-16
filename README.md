@@ -8,11 +8,11 @@
 </div>
 
 <div>
-  <h3>Programção Front-end</h3>
+  <h3>Programação Front-end</h3>
   <ul>
     <li>Desde 2019 aprendendo HTML 😄</li>
     <li>Desde 2020 aprendendo JS 😎</li>
+    <li>Desde 2021 aprendendo React ⚛️</li>
     <li>Até hoje chutando CSS 🤪</li>
   </ul>
-  <span>E engatinhando no ReactJS</span>
 </div>
