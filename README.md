@@ -1,18 +1,20 @@
-<div>
-    <h1>Luis Zampieron 🇧🇷</h1>
-    <ul>
-        <li>🙋‍ Tenho 16 anos </li>
-        <li>🎓 Estou no ensino médio </li>
-        <li>🖥️ E faço informática </li>
-    </ul>
-</div>
+# Luis Fernando Zampieron 🇧🇷
 
-<div>
-  <h3>Programação Front-end</h3>
-  <ul>
-    <li>😄 Desde 2019 aprendendo HTML </li>
-    <li>😎 Desde 2020 aprendendo JS </li>
-    <li>⚛️ Desde 2021 aprendendo React </li>
-    <li>🤪 Até hoje chutando CSS </li>
-  </ul>
-</div>
+## Sobre mim
+Olá! Meu nome é Luis Fernando Zampieron e sou de Concórdia, Santa Catarina, Brasil. Sou um desenvolvedor mobile apaixonado por transformar ideias em aplicativos funcionais e atraentes.
+
+## Experiência Profissional
+- 👨‍💻 Trabalhando com desenvolvimento mobile desde novembro de 2021
+- 📱 Especializado em React Native (Typescript, Javascript)
+- 🐍 Familiarizado com o uso do Django (Python) para desenvolvimento backend
+- 🤖 Tenho experiência em desenvolvimento Android com Java
+
+## Projetos Destacados
+- 📱 Desenvolvimento de aplicativos móveis intuitivos e eficientes usando React Native
+- 🌐 Criação de APIs robustas e sistemas backend usando Django
+- 📱 Experiência no desenvolvimento de aplicativos Android nativos usando Java
+
+## Contato
+- 📧 Email: luisfernandozampieron@gmail.com
+- 🔗 LinkedIn: [Luis Zampieron](https://www.linkedin.com/in/luis-zampieron-a13483227/)
+- 🌐 Portfólio: [luiszampieron.com](https://luiszampieron.com)
