@@ -1,7 +1,7 @@
-# Luis Fernando Zampieron 🇧🇷
+# Luis Fernando Zampieron 🇧🇷 - Desenvolvedor Full Stack
 
 ## Sobre mim
-Olá! Meu nome é Luis Fernando Zampieron e sou de Concórdia, Santa Catarina, Brasil. Sou um desenvolvedor mobile apaixonado por transformar ideias em aplicativos funcionais e atraentes.
+Olá! 👋 Sou o Luis Fernando Zampieron, um desenvolvedor full stack apaixonado por construir soluções completas e inovadoras. Com base em Concórdia, Santa Catarina, Brasil, mergulhei de cabeça no mundo do desenvolvimento para oferecer experiências de ponta a ponta.
 
 ## Experiência Profissional
 - 👨‍💻 Trabalhando com desenvolvimento mobile desde novembro de 2021
